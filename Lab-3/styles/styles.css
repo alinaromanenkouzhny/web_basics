@@ -15,7 +15,10 @@ a:hover {
 img{
     width: 100%;
 }
-    h1 {
-      text-align: center;
-      color: red;
-    }
+h1 {
+  text-align: center;
+   color: red;
+}
+ul,ol{
+  border: 1px solid red;
+}
